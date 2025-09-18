@@ -1,4 +1,4 @@
-# FWD, RWD, AWD.
+# FWD
 **FWD** it's the abrebation of Front wheel drive, that mean that the car porwers the front wheel, this tipe of taction is the most **commun** because is **cheap** to made, many brans create their cars with is cofiguration. **Exemples like**: Toyota, Honda, Mazda Volkswagen.. etc
 
 ![example](https://www.aamcocolorado.com/images/AAMCO-FWD.jpg)
